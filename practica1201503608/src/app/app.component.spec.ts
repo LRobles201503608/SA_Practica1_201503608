@@ -37,8 +37,8 @@ describe('AppComponent', () => {
   it('should have a message with 100',()=>{
     expect(compoenet.title2).toContain('100');
   });
-  /* // 
+   
   it('should have a message with JUAN (Error)',()=>{
     expect(compoenet.title).toBe('JUAN');
-  });*/
+  });
 });
